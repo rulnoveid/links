@@ -1,0 +1,20 @@
+/*Mobile*/
+@media only screen and (max-width: 787px) {
+  .linktree a {
+    display: block;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .intro_profile .name {
+    margin-top: 20px;
+  }
+
+  .intro_profile .info {
+    margin-top: 20px;
+  }
+
+  .img_profile {
+    margin-bottom: 0;
+  }
+}
